@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ravi Chandra Talluri - Portfolio
 
 A modern, responsive portfolio website showcasing my work as a Data Engineer and Analytics Professional.
@@ -49,3 +50,6 @@ git clone https://github.com/ravichandratalluri/ravichandratalluri.github.io.git
 - Email: ravichandratalluri29@gmail.com
 - LinkedIn: [Ravi Chandra Talluri](https://linkedin.com/in/ravichandratalluri)
 - GitHub: [@ravichandratalluri](https://github.com/ravichandratalluri) 
+=======
+building a portfolio website
+>>>>>>> e371efd2885ef5ee8db6baafe04362e614ccf97f

@@ -9,4 +9,8 @@ Thumbs.db
 *.swo
 
 # Dependencies
+<<<<<<< HEAD
 node_modules/ 
+=======
+node_modules/
+>>>>>>> e371efd2885ef5ee8db6baafe04362e614ccf97f
